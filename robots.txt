@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://USERNAME.github.io/SEO-demo/sitemap.xml
+Crawl-delay: 10
+
+# Disallow Testbereich
+Disallow: /test/
